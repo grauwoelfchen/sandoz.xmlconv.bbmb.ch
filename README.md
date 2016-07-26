@@ -4,7 +4,7 @@ The xml converter files for Sandoz Switzerland.
 
 A graphical overview:
 
-![sandozxmlconv]https://raw.githubusercontent.com/zdavatz/sandoz.xmlconv.bbmb.ch/master/sandozxmlconv.jpeg
+![sandozxmlconv](https://raw.githubusercontent.com/zdavatz/sandoz.xmlconv.bbmb.ch/master/sandozxmlconv.jpeg)
 
 ## Repository
 

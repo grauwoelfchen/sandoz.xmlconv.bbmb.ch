@@ -30,7 +30,7 @@ class << self
  xmlns="http://www.e-galexis.com/schemas/"
  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
  xsi:schemaLocation="http://www.e-galexis.com/schemas/
-  http://www.e-galexis.com/schemas/POS/customerOrder/customerOrderResponse.xsd"
+ http://www.e-galexis.com/schemas/POS/customerOrder/customerOrderResponse.xsd"
  version="1.0"
  roundUpForCondition="false"
  backLogDesired="false"
